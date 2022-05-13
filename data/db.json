@@ -1,0 +1,28 @@
+{
+  "yazilar": [
+    {
+      "ad": "Yeni Başlayanlar için C#",
+      "aciklama": "lorem ipsum",
+      "yazar": "Pyson",
+      "id": 1
+    },
+    {
+      "ad": "Yeni Başlayanlar için Python",
+      "aciklama": "lorem ipsum",
+      "yazar": "Pyson",
+      "id": 2
+    },
+    {
+      "ad": "Yeni Başlayanlar için Javascript",
+      "aciklama": "lorem ipsum",
+      "yazar": "Morgana",
+      "id": 3
+    },
+    {
+      "ad": "Yeni Başlayanlar için React",
+      "aciklama": "lorem ipsum",
+      "yazar": "Kalista",
+      "id": 4
+    }
+  ]
+}
